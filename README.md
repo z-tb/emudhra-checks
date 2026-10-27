@@ -8,6 +8,8 @@ For live test endpoints and real-time status details on affected intermediates, 
 
 I mainly focus on the system CA, curl, wget and python here. The URLs mentioned above should work for any any generic HTTPS tool you throw at it. It's understood that `apt` is using the system CA so I didn't bother with that.
 
+![alt text](image.png)
+
 ---
 
 ## Script Overview
